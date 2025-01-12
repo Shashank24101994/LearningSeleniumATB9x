@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex04_seleniumoptions_locators/TestSelenium15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex04_seleniumoptions_locators/TestSelenium16_Add_Extension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex04_seleniumoptions_locators/TestSelenium17_proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +65,11 @@
     "TestNG.TestSelenium09.executor": "Run",
     "TestNG.TestSelenium10.executor": "Run",
     "TestNG.TestSelenium11.executor": "Run",
+    "TestNG.TestSelenium12.executor": "Run",
+    "TestNG.TestSelenium13.executor": "Run",
+    "TestNG.TestSelenium15.executor": "Coverage",
+    "TestNG.TestSelenium16_Add_Extension.executor": "Run",
+    "TestNG.TestSelenium17_proxy.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
@@ -78,8 +79,8 @@
       <recent name="com.shashankjaincompany.ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium11">
-    <configuration name="TestSelenium07" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSelenium17_proxy">
+    <configuration name="TestSelenium12" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
@@ -88,7 +89,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium07" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium12" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -96,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium08" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium13" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
@@ -105,7 +106,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium08" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium13" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,16 +114,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium09" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium15" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium09" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium15" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,16 +131,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium10" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium16_Add_Extension" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium10" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium16_Add_Extension" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -147,16 +148,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium11" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium17_proxy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium11" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium17_proxy" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSelenium11" />
-        <item itemvalue="TestNG.TestSelenium10" />
-        <item itemvalue="TestNG.TestSelenium09" />
-        <item itemvalue="TestNG.TestSelenium08" />
-        <item itemvalue="TestNG.TestSelenium07" />
+        <item itemvalue="TestNG.TestSelenium17_proxy" />
+        <item itemvalue="TestNG.TestSelenium16_Add_Extension" />
+        <item itemvalue="TestNG.TestSelenium15" />
+        <item itemvalue="TestNG.TestSelenium13" />
+        <item itemvalue="TestNG.TestSelenium12" />
       </list>
     </recent_temporary>
   </component>
@@ -191,11 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1736581409473</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files">
+      <option name="closed" value="true" />
+      <created>1736679875941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736679875942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new files" />
     <option name="LAST_COMMIT_MESSAGE" value="new files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex04_seleniumoptions_locators/TestSelenium17_proxy.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningSeleniumATB9x$TestSelenium15.ic" NAME="TestSelenium15 Coverage Results" MODIFIED="1736683571728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.shashankjaincompany.ex04_seleniumoptions_locators.*</FILTER>
+    </SUITE>
   </component>
 </project>
