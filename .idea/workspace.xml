@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex01_SeleniumBasic/TestSelenium01.java" afterDir="false" />
+    <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium/TestSelenium11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +58,105 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.TestSelenium01.executor": "Run",
+    "TestNG.TestSelenium03.executor": "Run",
+    "TestNG.TestSelenium03.test_selenium.executor": "Run",
+    "TestNG.TestSelenium04.executor": "Run",
+    "TestNG.TestSelenium05.executor": "Run",
+    "TestNG.TestSelenium06.executor": "Run",
+    "TestNG.TestSelenium07.executor": "Run",
+    "TestNG.TestSelenium08.executor": "Run",
+    "TestNG.TestSelenium09.executor": "Run",
+    "TestNG.TestSelenium10.executor": "Run",
+    "TestNG.TestSelenium11.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="TestSelenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shashankjaincompany.ex_selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSelenium11">
+    <configuration name="TestSelenium07" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex01_SeleniumBasic.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex01_SeleniumBasic" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex01_SeleniumBasic.TestSelenium01" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium07" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium08" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium08" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium09" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium09" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium10" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium10" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium11" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -78,7 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSelenium01" />
+        <item itemvalue="TestNG.TestSelenium11" />
+        <item itemvalue="TestNG.TestSelenium10" />
+        <item itemvalue="TestNG.TestSelenium09" />
+        <item itemvalue="TestNG.TestSelenium08" />
+        <item itemvalue="TestNG.TestSelenium07" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +183,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736580040911</updated>
     </task>
+    <task id="LOCAL-00001" summary="new files">
+      <option name="closed" value="true" />
+      <created>1736581409473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736581409473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
 </project>
