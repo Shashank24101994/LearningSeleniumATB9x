@@ -1,5 +1,6 @@
 package com.shashankjaincompany.ex_selenium_xpath;
 
+import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -13,7 +14,7 @@ import java.util.List;
 
 public class Taskidrive360
 {
-
+  @Description("Verify that Free trial expire message in idrve.com")
    @Test
     public void idrivelogin() throws InterruptedException {
         WebDriver driver = new EdgeDriver();
@@ -35,6 +36,8 @@ public class Taskidrive360
 
        WebElement message = driver.findElement(By.xpath("//h5[text()='Your free trial has expired']"));
        Assert.assertEquals(message.getText(),"Your free trial has expired");
+
+       driver.quit();
 
 
     }
