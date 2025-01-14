@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="new files" />
+    <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/MiniProject_appvwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/Selenium17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/Selenium18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/Selenium19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/SeleniumTaskkatalon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Shashank24101994"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shashank24101994&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Shashank24101994/LearningSeleniumATB9x.git",
-    "accountId": "d7595f3f-42f3-4ca5-91dc-e56b1a8587f7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shashank24101994/LearningSeleniumATB9x.git&quot;,
+    &quot;accountId&quot;: &quot;d7595f3f-42f3-4ca5-91dc-e56b1a8587f7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rTPM3tl9bbeyM7OKLGFvXPpcNE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +54,11 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.MiniProject_appvwo.executor": "Run",
+    "TestNG.Selenium17.executor": "Run",
+    "TestNG.Selenium18.executor": "Run",
+    "TestNG.Selenium19.executor": "Run",
+    "TestNG.SeleniumTaskkatalon.executor": "Run",
     "TestNG.TestSelenium01.executor": "Run",
     "TestNG.TestSelenium03.executor": "Run",
     "TestNG.TestSelenium03.test_selenium.executor": "Run",
@@ -72,17 +84,17 @@
       <recent name="com.shashankjaincompany.ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium17_proxy">
-    <configuration name="TestSelenium12" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SeleniumTaskkatalon">
+    <configuration name="MiniProject_appvwo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium12" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.MiniProject_appvwo" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -90,16 +102,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium13" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium17" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium.TestSelenium13" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.Selenium17" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -107,16 +119,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium15" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium18" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium15" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.Selenium18" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -124,16 +136,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium16_Add_Extension" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium19" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium16_Add_Extension" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.Selenium19" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -141,16 +153,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium17_proxy" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumTaskkatalon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex04_seleniumoptions_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex04_seleniumoptions_locators.TestSelenium17_proxy" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.SeleniumTaskkatalon" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -160,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSelenium17_proxy" />
-        <item itemvalue="TestNG.TestSelenium16_Add_Extension" />
-        <item itemvalue="TestNG.TestSelenium15" />
-        <item itemvalue="TestNG.TestSelenium13" />
-        <item itemvalue="TestNG.TestSelenium12" />
+        <item itemvalue="TestNG.SeleniumTaskkatalon" />
+        <item itemvalue="TestNG.Selenium18" />
+        <item itemvalue="TestNG.Selenium17" />
+        <item itemvalue="TestNG.Selenium19" />
+        <item itemvalue="TestNG.MiniProject_appvwo" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +227,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex04_seleniumoptions_locators/TestSelenium17_proxy.java</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/MiniProject_appvwo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
