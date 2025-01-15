@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e70f1ef-abc1-408a-97c3-b46e72215855" name="Changes" comment="new files">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium_xpath/Taskidrive360.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_selenium_xpath/Taskidrive360.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_webtable/Selenium20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_webtable/Selenium20_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_webtable/Selenium21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_webtable/Statictable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,11 @@
     "TestNG.Selenium17.executor": "Run",
     "TestNG.Selenium18.executor": "Run",
     "TestNG.Selenium19.executor": "Run",
+    "TestNG.Selenium20.executor": "Run",
+    "TestNG.Selenium20_Task.executor": "Run",
+    "TestNG.Selenium21.executor": "Run",
     "TestNG.SeleniumTaskkatalon.executor": "Run",
+    "TestNG.Statictable.executor": "Run",
     "TestNG.Taskidrive360.executor": "Run",
     "TestNG.Taskidrive360.idrivelogin.executor": "Run",
     "TestNG.TestSelenium01.executor": "Run",
@@ -78,20 +86,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shashankjaincompany.ex_webtable" />
       <recent name="com.shashankjaincompany.ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Taskidrive360">
-    <configuration name="Selenium17" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Statictable">
+    <configuration name="Selenium20" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex_webtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.Selenium17" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_webtable" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_webtable.Selenium20" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -99,16 +108,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium18" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium20_Task" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex_webtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.Selenium18" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_webtable" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_webtable.Selenium20_Task" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -116,16 +125,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTaskkatalon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium21" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.Selenium_locators.*" />
+          <option name="PATTERN" value="com.shashankjaincompany.ex_webtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.Selenium_locators" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.Selenium_locators.SeleniumTaskkatalon" />
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_webtable" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_webtable.Selenium21" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statictable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashankjaincompany.ex_webtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_webtable" />
+      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_webtable.Statictable" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -150,31 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taskidrive360.idrivelogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shashankjaincompany.ex_selenium_xpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.shashankjaincompany.ex_selenium_xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.shashankjaincompany.ex_selenium_xpath.Taskidrive360" />
-      <option name="METHOD_NAME" value="idrivelogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Statictable" />
+        <item itemvalue="TestNG.Selenium20" />
+        <item itemvalue="TestNG.Selenium20_Task" />
+        <item itemvalue="TestNG.Selenium21" />
         <item itemvalue="TestNG.Taskidrive360" />
-        <item itemvalue="TestNG.Taskidrive360.idrivelogin" />
-        <item itemvalue="TestNG.SeleniumTaskkatalon" />
-        <item itemvalue="TestNG.Selenium18" />
-        <item itemvalue="TestNG.Selenium17" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736859550294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new files">
+      <option name="closed" value="true" />
+      <created>1736860396758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736860396758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,6 +262,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/shashankjaincompany/Selenium_locators/MiniProject_appvwo.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/shashankjaincompany/ex_webtable/Selenium20_Task.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
